@@ -20,11 +20,11 @@
                     Instruções para startar o projeto
 
 
-*   Abra o PowerShell e vá até o diretório ' /FrontEnd_helpdiaristas '
+*   Abra o PowerShell e vá até o diretório raiz do projeto
 
-*   Execute o comando ' npm install ', aguarde a instalação de ' node_modules '
+*   Execute o comando " npm install ", aguarde a instalação de ' node_modules '
 
-*   Em seguida execute o comando ' npm run dev '
+*   Em seguida execute o comando " npm run dev "
 
 *   Em seu navegador acesse http://localhost:3000
 
