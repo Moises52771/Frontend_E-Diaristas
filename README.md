@@ -1,4 +1,4 @@
-#                 Instruções de execução do projeto E-Diaristas                    
+#                 Instruções de execução do projeto E-Diaristas / Frontend                   
 ##
 
 
