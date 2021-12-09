@@ -51,6 +51,7 @@ Essas foram as tecnologias ultilizadas no desenvolvimento do projeto:
 ### Para startar o projeto
 
 
+*   De um `cd Frontend_E-Diaristas`
 
 *   Execute o comando `npm install`, aguarde a instalação de ' node_modules '
 
